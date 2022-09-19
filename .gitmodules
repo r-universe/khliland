@@ -23,6 +23,11 @@
 	url = https://github.com/khliland/matrixcorrelation
 	shallow = true
 	registered = true
+[submodule "mixlm"]
+	path = mixlm
+	url = https://github.com/khliland/mixlm
+	shallow = true
+	registered = true
 [submodule "multiblock"]
 	path = multiblock
 	url = https://github.com/khliland/multiblock

@@ -16,10 +16,6 @@
     "oncran": true
   },
   {
-    "package": "mixlm",
-    "oncran": true
-  },
-  {
     "package": "multiblock",
     "oncran": true
   },

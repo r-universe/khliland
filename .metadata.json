@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "ER",
+    "oncran": true
+  },
+  {
     "package": "fixedTimeEvents",
     "oncran": true
   },

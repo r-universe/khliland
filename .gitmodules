@@ -13,6 +13,11 @@
 	url = https://github.com/khliland/emsc
 	shallow = true
 	registered = true
+[submodule "ER"]
+	path = ER
+	url = https://github.com/khliland/er
+	shallow = true
+	registered = true
 [submodule "fixedTimeEvents"]
 	path = fixedTimeEvents
 	url = https://github.com/khliland/fixedtimeevents

@@ -1,18 +1,6 @@
 [
   {
-    "package": "fixedTimeEvents",
-    "oncran": true
-  },
-  {
-    "package": "multiblock",
-    "oncran": true
-  },
-  {
-    "package": "plsVarSel",
-    "oncran": true
-  },
-  {
-    "package": "pls",
+    "package": "baseline",
     "oncran": true
   },
   {
@@ -20,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "RcmdrPlugin.NMBU",
+    "package": "fixedTimeEvents",
     "oncran": true
   },
   {
-    "package": "baseline",
+    "package": "MatrixCorrelation",
     "oncran": true
   },
   {
@@ -32,7 +20,19 @@
     "oncran": true
   },
   {
-    "package": "MatrixCorrelation",
+    "package": "multiblock",
+    "oncran": true
+  },
+  {
+    "package": "pls",
+    "oncran": true
+  },
+  {
+    "package": "plsVarSel",
+    "oncran": true
+  },
+  {
+    "package": "RcmdrPlugin.NMBU",
     "oncran": true
   }
 ]

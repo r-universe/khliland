@@ -3,29 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "baseline"]
-	path = baseline
-	url = https://github.com/khliland/baseline
-	shallow = true
-	registered = true
-[submodule "EMSC"]
-	path = EMSC
-	url = https://github.com/khliland/emsc
-	shallow = true
-	registered = true
 [submodule "fixedTimeEvents"]
 	path = fixedTimeEvents
 	url = https://github.com/khliland/fixedtimeevents
-	shallow = true
-	registered = true
-[submodule "MatrixCorrelation"]
-	path = MatrixCorrelation
-	url = https://github.com/khliland/matrixcorrelation
-	shallow = true
-	registered = true
-[submodule "mixlm"]
-	path = mixlm
-	url = https://github.com/khliland/mixlm
 	shallow = true
 	registered = true
 [submodule "multiblock"]
@@ -33,18 +13,38 @@
 	url = https://github.com/khliland/multiblock
 	shallow = true
 	registered = true
-[submodule "pls"]
-	path = pls
-	url = https://github.com/khliland/pls
-	shallow = true
-	registered = true
 [submodule "plsVarSel"]
 	path = plsVarSel
 	url = https://github.com/khliland/plsvarsel
 	shallow = true
 	registered = true
+[submodule "pls"]
+	path = pls
+	url = https://github.com/khliland/pls
+	shallow = true
+	registered = true
+[submodule "EMSC"]
+	path = EMSC
+	url = https://github.com/khliland/emsc
+	shallow = true
+	registered = true
 [submodule "RcmdrPlugin.NMBU"]
 	path = RcmdrPlugin.NMBU
 	url = https://github.com/khliland/rcmdrplugin.nmbu
+	shallow = true
+	registered = true
+[submodule "baseline"]
+	path = baseline
+	url = https://github.com/khliland/baseline
+	shallow = true
+	registered = true
+[submodule "mixlm"]
+	path = mixlm
+	url = https://github.com/khliland/mixlm
+	shallow = true
+	registered = true
+[submodule "MatrixCorrelation"]
+	path = MatrixCorrelation
+	url = https://github.com/khliland/matrixcorrelation
 	shallow = true
 	registered = true

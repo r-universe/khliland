@@ -2,21 +2,24 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "baseline"]
-	path = baseline
-	url = https://github.com/khliland/baseline
 [submodule "EMSC"]
 	path = EMSC
 	url = https://github.com/khliland/emsc
 [submodule "ER"]
 	path = ER
 	url = https://github.com/khliland/er
-[submodule "fixedTimeEvents"]
-	path = fixedTimeEvents
-	url = https://github.com/khliland/fixedtimeevents
 [submodule "MatrixCorrelation"]
 	path = MatrixCorrelation
 	url = https://github.com/khliland/matrixcorrelation
+[submodule "RcmdrPlugin.NMBU"]
+	path = RcmdrPlugin.NMBU
+	url = https://github.com/khliland/rcmdrplugin.nmbu
+[submodule "baseline"]
+	path = baseline
+	url = https://github.com/khliland/baseline
+[submodule "fixedTimeEvents"]
+	path = fixedTimeEvents
+	url = https://github.com/khliland/fixedtimeevents
 [submodule "mixlm"]
 	path = mixlm
 	url = https://github.com/khliland/mixlm
@@ -29,6 +32,3 @@
 [submodule "plsVarSel"]
 	path = plsVarSel
 	url = https://github.com/khliland/plsvarsel
-[submodule "RcmdrPlugin.NMBU"]
-	path = RcmdrPlugin.NMBU
-	url = https://github.com/khliland/rcmdrplugin.nmbu

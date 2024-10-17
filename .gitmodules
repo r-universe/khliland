@@ -8,6 +8,9 @@
 [submodule "ER"]
 	path = ER
 	url = https://github.com/khliland/er
+[submodule "HDANOVA"]
+	path = HDANOVA
+	url = https://github.com/khliland/hdanova
 [submodule "MatrixCorrelation"]
 	path = MatrixCorrelation
 	url = https://github.com/khliland/matrixcorrelation

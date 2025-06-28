@@ -23,6 +23,9 @@
 [submodule "fixedTimeEvents"]
 	path = fixedTimeEvents
 	url = https://github.com/khliland/fixedtimeevents
+[submodule "gemR"]
+	path = gemR
+	url = https://github.com/khliland/gemr
 [submodule "mixlm"]
 	path = mixlm
 	url = https://github.com/khliland/mixlm
